@@ -1,0 +1,11 @@
+* {margin:0;padding:0}
+body {
+    /* 设置背景图片和颜色 */
+    /* 创建一个从左上到右下的线性渐变 */
+
+    background: linear-gradient(rgba(17, 97, 126, 0.8), #ffffff, #b6b6d0) no-repeat fixed center;
+}
+.bold{
+    font-size: 1.35rem;
+    font-weight: 500;
+}
